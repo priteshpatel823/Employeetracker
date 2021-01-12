@@ -1,0 +1,29 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priteshpatel823/Employeetracker.git"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "Pritesh Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priteshpatel823/Employeetracker/issues"
+  },
+  "homepage": "https://github.com/priteshpatel823/Employeetracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "figlet": "^1.3.0",
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  }
+}
